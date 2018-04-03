@@ -1,0 +1,3 @@
+C:\Users\Jem\Documents\jeremytraining\Jeremy's project\Jeremy's project\obj\Debug\Jeremys project.csprojResolveAssemblyReference.cache
+C:\Users\Jem\Documents\jeremytraining\Jeremy's project\Jeremy's project\obj\Debug\App.g.cs
+C:\Users\Jem\Documents\jeremytraining\Jeremy's project\Jeremy's project\obj\Debug\Jeremys project_MarkupCompile.cache
